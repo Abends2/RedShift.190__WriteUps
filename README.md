@@ -1,9 +1,5 @@
 
-
-<table>
-<tr><td>данные</td><td>данные</td></tr>
-</table>
-
+<p align="center"><img src="https://github.com/Abends2/RedShift190__WriteUp/blob/main/assets/logo.png" alt="1"></p>
 
 ---
 
@@ -48,6 +44,5 @@
 ---
 
 
-![Rlogo](assets/logo.png)
 
-![Clogo](assets/college.png)
+
