@@ -16,7 +16,7 @@
 
 ![ScreenShot](screenshots/62.png)
 
-Далее с помощью словаря брутим зипку
+Далее извлекаем хэш zip архива и брутим по созданному словарю:
 
 ![ScreenShot](screenshots/63.png)
 
