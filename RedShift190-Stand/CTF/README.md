@@ -19,3 +19,38 @@
 | 15  | Web       | [Time Machine](https://github.com/Abends2/RedShift190__WriteUp/blob/main/RedShift190-Stand/CTF/Tasks/Task%2015%20-%20Time%20machine%20(Web).md)                      |
 | 16  | Web + Joy     | [GalacticCraft](https://github.com/Abends2/RedShift190__WriteUp/blob/main/RedShift190-Stand/CTF/Tasks/Task%2016%20-%20GalacticCraft%20(Web%20%2B%20Joy).md)      |
 
+---
+
+Ссылки на таски:
+
+https://disk.yandex.ru/d/1IIBD6dvUs1xZw
+
+https://disk.yandex.ru/d/pgb456q_0l_IjA
+
+https://disk.yandex.ru/d/6GNCsBYmYpxkXw
+
+https://disk.yandex.ru/d/df4B9rqpTgY2VQ
+
+https://disk.yandex.ru/d/hNQiX8LQr0aOrg
+
+https://disk.yandex.ru/d/zjNqAyVpDs7xGg
+
+https://disk.yandex.ru/d/nwE4QLnsBp7rGw
+
+https://disk.yandex.ru/d/KT7772HPbwOn7A
+
+https://disk.yandex.ru/d/rpGIjUM8eNvygQ
+
+https://disk.yandex.ru/d/rpGIjUM8eNvygQ
+
+https://disk.yandex.ru/d/gUdBDmhNAz599g
+
+https://disk.yandex.ru/d/KUdFeu5dSbY4og
+
+https://disk.yandex.ru/d/YqBP-2YVO1UW2g
+
+https://disk.yandex.ru/d/rNnuWvG5lPd6aA
+
+https://disk.yandex.ru/d/rNnuWvG5lPd6aA
+
+https://disk.yandex.ru/d/cWa_SvfjD6zHIQ
